@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Automatic battery charger", "Automatic battery charger\Automatic battery charger.cproj", "{20134F32-F63E-4415-A11F-45070671D6FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20134F32-F63E-4415-A11F-45070671D6FE}.Debug|AVR.ActiveCfg = Debug|AVR
+		{20134F32-F63E-4415-A11F-45070671D6FE}.Debug|AVR.Build.0 = Debug|AVR
+		{20134F32-F63E-4415-A11F-45070671D6FE}.Release|AVR.ActiveCfg = Release|AVR
+		{20134F32-F63E-4415-A11F-45070671D6FE}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
